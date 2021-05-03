@@ -8,8 +8,8 @@
  *
  * 	Explanation of MAX value: The MAX ADC value displayed when the 
  * 	photoresistor is exposed to light is a rather finicky number. When the
- * 	light is at a certain angle, the ADC value can be 0xFFFF. Most of the 
- * 	time receiving light results in upwards of 0x8000 or 0xC000.
+ * 	light is at a certain angle, the ADC value can be 0x03FF. Most of the 
+ * 	time receiving light results in upwards of 0x0200 or 0x0300.
  *
  *	I acknowledge all content contained herein, excluding template or
  *	example code, is my own original work.
